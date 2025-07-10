@@ -1,0 +1,87 @@
+ [
+    {
+      "id": "1",
+      "title": "高级Vue开发人员",
+      "type": "全职",
+      "location": "马萨诸塞州波士顿",
+      "description": "我们正在寻找一位有才华的前端开发人员加入我们位于马萨诸塞州波士顿的团队。理想的候选人应具备扎实的HTML、CSS和JavaScript技能，并有使用Vue或Angular等现代JavaScript框架的经验。",
+      "salary": "$90K - $100K",
+      "company": {
+        "name": "纽泰克解决方案",
+        "description": "纽泰克解决方案公司是一家领先的科技公司，专注于网页开发和数字解决方案。我们以向客户提供高质量的产品和服务为荣，同时营造一个协作创新的工作环境。",
+        "contactEmail": "contact@teksolutions.com",
+        "contactPhone": "555-555-5555"
+      }
+      
+    },
+    {
+      "id": "2",
+      "title": "前端工程师（Vue）",
+      "type": "全职",
+      "description": "加入我们位于阳光明媚的佛罗里达州迈阿密市的团队，担任前端开发工程师。我们正在寻找一位积极进取、热衷于打造美观且响应式网页应用程序的人才。具备UI/UX设计原则经验以及对细节的高度关注者优先。 ",
+      "location": "佛罗里达州迈阿密",
+      "salary": "$70K - $80K",
+      "company": {
+        "name": "饰面板解决方案",
+        "description": "Veneer Solutions是一家专注于数字设计与开发的创意机构。我们的团队致力于突破创意与创新的界限，为客户提供卓越的成果。",
+        "contactEmail": "contact@loremipsum.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "3",
+      "title": "VVue.js 开发工程师",
+      "type": "全职",
+      "description": "你是否对前端开发充满热情？加入我们位于充满活力的纽约布鲁克林的团队，参与有影响力的精彩项目。我们提供有竞争力的薪酬和协作的工作环境，你的想法将得到重视。",
+      "location": "布鲁克林，纽约",
+      "salary": "$70K - $80K",
+      "company": {
+        "name": "Dolor 云",
+        "description": "Dolor 云是一家领先的科技公司，专注于为各种规模的企业提供数字解决方案。我们以创新和客户满意度为核心，致力于交付前沿的产品和服务。",
+        "contactEmail": "contact@dolorsitamet.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "4",
+      "title": "Vue 前端开发工程师",
+      "type": "兼职",
+      "description": "加入我们的团队，在美丽的亚利桑那州凤凰城担任兼职前端开发工程师。我们寻找有自我驱动力、热衷于创造引人入胜用户体验的人才。该职位提供灵活的工作时间和远程工作的机会。",
+      "location": "凤凰城，亚利桑那州",
+      "salary": "$60K - $70K",
+      "company": {
+        "name": "Alpha Elite",
+        "description": "Alpha Elite 是一家充满活力的初创公司，专注于数字营销和网页开发。我们致力于营造多元化和包容性的工作环境，让创造力和创新蓬勃发展。",
+        "contactEmail": "contact@adipisicingelit.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "5",
+      "title": "全栈 Vue 开发工程师",
+      "type": "全职",
+      "description": "为位于繁华的佐治亚州亚特兰大的全职前端开发工程师提供令人兴奋的机会。我们正在寻找有才华、热衷于构建优雅且可扩展的 Web 应用程序的人才。加入我们的团队，发挥影响力！",
+      "location": "亚特兰大，佐治亚州",
+      "salary": "$90K - $100K",
+      "company": {
+        "name": "Browning Technologies",
+        "description": "Browning Technologies 是一家快速发展的科技公司，专注于电子商务解决方案。我们提供充满活力的协作工作环境，鼓励员工创造性思考和创新。",
+        "contactEmail": "contact@consecteturadipisicing.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "6",
+      "title": "Vue 原生开发工程师",
+      "type": "全职",
+      "description": "加入我们的团队，在美丽的俄勒冈州波特兰担任前端开发工程师。我们正在寻找技术娴熟、热情高涨的人才，帮助我们创建创新的 Web 解决方案。提供有竞争力的薪资和完善的福利套餐。",
+      "location": "波特兰，俄勒冈州",
+      "salary": "$100K - $110K",
+      "company": {
+        "name": "Port Solutions INC",
+        "description": "Port Solutions 是一家领先的科技公司，专注于软件开发和数字营销。我们致力于为客户提供前沿解决方案，为员工提供支持性和有回报的工作环境。",
+        "contactEmail": "contact@ipsumlorem.com",
+        "contactPhone": "555-555-5555"
+      }
+    }
+  ]
