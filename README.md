@@ -44,6 +44,9 @@ npm run build
 npm run preview
 ```
 
+### 原作者仓库
+
+[vue-crash-2024](https://github.com/bradtraversy/vue-crash-2024)
 
 
 
